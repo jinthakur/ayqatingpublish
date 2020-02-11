@@ -11,8 +11,7 @@
                 <button type="submit" class="btn btn-default" name="provider" value="<%#: Item %>"
                     title="Log in using your <%#: Item %> account." class="fa-facebook-square">
                     <%#: Item %>
-                   
-                    <asp:Label ID="Label1" runat="server" Text="If Bloc"></asp:Label><br />
+                                       <asp:Label ID="Label1" runat="server" Text="If Bloc"></asp:Label><br />
                 
                 </button>
                  
